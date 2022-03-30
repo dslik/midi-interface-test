@@ -2,6 +2,8 @@
 
 This is a simple program for a Raspberry Pi Pico that tests a MIDI interface board.
 
+![image](https://user-images.githubusercontent.com/5757591/160741969-8265b695-4af4-47cb-ac20-ce61baded486.png)
+
 The following subsystems are tested:
 
 * WS2812 LEDs
